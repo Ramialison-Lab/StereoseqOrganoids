@@ -40,7 +40,7 @@ This notebooks shows how to separata multiple organoids on the same slide.
   
 ### Regional analysis
 
-- [border_core_analysis]
+- [border_core_analysis](https://github.com/Ramialison-Lab/StereoseqOrganoids/blob/main/border_core_brainHD.ipynb)
 
 - [center_poles_analysis]
 
