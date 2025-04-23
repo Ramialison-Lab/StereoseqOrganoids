@@ -2,13 +2,13 @@
 
 ## This repository contains the code for the manuscript: 'Application of spatial transcriptomics across organoids: a high-resolution spatial whole-transcriptome benchmarking dataset'.
 
-- Pre-processing: SAW pipeline/scripts
+### Pre-processing: SAW pipeline/scripts
 
 Example of a job to send the SAW pipeline for a sample: 
 
   [exampleJob](https://github.com/Ramialison-Lab/StereoseqOrganoids/blob/main/run_stereopipeline_stitched_allsamples.sh)
 
-### inputs required: 
+#### inputs required: 
 
 - [pipeline_script](https://github.com/Ramialison-Lab/StereoseqOrganoids/blob/main/stereoPipeline_v6.12.sh)
   
@@ -23,7 +23,24 @@ Example of a job to send the SAW pipeline for a sample:
   
 This data can be found in the GEO repository:
   
-- Quality metrics comparison
+### Quality metrics comparison
+
+The spatial data from different kind of organoids were compared in terms of number of genes, counts and percentage of cells expressing house-keeping genes. 
+
+-[qc_notebook1]
+
+The results were compared with different binning sizes.
+
+-[binning_notebook1]
+
+This notebooks shows how to separata multiple organoids on the same slide.
+
+-[select_organoid_from_slide]
   
-- Regional analysis
-  
+### Regional analysis
+
+-[border_core_analysis]
+
+-[center_poles_analysis]
+
+-[GSEA]
