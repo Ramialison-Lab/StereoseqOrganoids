@@ -36,12 +36,12 @@ The results were compared with different binning sizes.
 
 This notebooks shows how to separata multiple organoids on the same slide.
 
--[select_organoid_from_slide](https://github.com/Ramialison-Lab/StereoseqOrganoids/blob/main/separateorganoids.ipynb)
+- [select_organoid_from_slide](https://github.com/Ramialison-Lab/StereoseqOrganoids/blob/main/separateorganoids.ipynb)
   
 ### Regional analysis
 
 - [border_core_analysis](https://github.com/Ramialison-Lab/StereoseqOrganoids/blob/main/border_core_brainHD.ipynb)
 
-- [center_poles_analysis]
+- [center_poles_analysis](https://github.com/Ramialison-Lab/StereoseqOrganoids/blob/main/dyno_DMK_VS_CTRL.html)
 
 - [GSEA]
