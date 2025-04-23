@@ -44,4 +44,6 @@ This notebooks shows how to separata multiple organoids on the same slide.
 
 - [center_poles_analysis](https://github.com/Ramialison-Lab/StereoseqOrganoids/blob/main/dyno_DMK_VS_CTRL.html)
 
-- [GSEA]
+- [GSEA_heartorganoids](https://github.com/Ramialison-Lab/StereoseqOrganoids/blob/main/GSEA_dyno_CTRL_DMK.ipynb)
+
+- [GSEA_brainorganoids](https://github.com/Ramialison-Lab/StereoseqOrganoids/blob/main/GSEA_dyno_CTRL_DMK.ipynb)
