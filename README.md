@@ -40,9 +40,15 @@ This notebooks shows how to separata multiple organoids on the same slide.
   
 ### Regional analysis
 
+#### Code to classify circular shaped organoids into inner and outer regions. (core-border)
+
 - [border_core_analysis](https://github.com/Ramialison-Lab/StereoseqOrganoids/blob/main/border_core_brainHD.ipynb)
 
+#### Code to classify elongated shaped organoids into center and poles.
+
 - [center_poles_analysis](https://github.com/Ramialison-Lab/StereoseqOrganoids/blob/main/dyno_DMK_VS_CTRL.html)
+
+#### GSEA
 
 - [GSEA_heartorganoids](https://github.com/Ramialison-Lab/StereoseqOrganoids/blob/main/GSEA_dyno_CTRL_DMK.ipynb)
 
