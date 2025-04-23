@@ -21,7 +21,8 @@ Example of a job to send the SAW pipeline for a sample:
 - fastqs
 - image in .ipr and .tar.gz format (output of ImageStudio software that converts .czi into these formats)
   
-This data can be found in the GEO repository:
+This data can be found on GEO under accession number: GSE294759
+[GEO_DATA](https://url.au.m.mimecastprotect.com/s/8oK3Cq717ycnrQ7giqCMcEkGoG?domain=ncnbi.nlm.nih.gov)
   
 ### Quality metrics comparison
 
