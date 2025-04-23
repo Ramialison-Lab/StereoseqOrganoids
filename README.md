@@ -28,11 +28,11 @@ This data can be found on GEO under accession number: GSE294759
 
 The spatial data from different kind of organoids were compared in terms of number of genes, counts and percentage of cells expressing house-keeping genes. 
 
--[qc_notebook1](https://github.com/Ramialison-Lab/StereoseqOrganoids/blob/main/STOMICs_FIG1.ipynb)
+- [qc_notebook1](https://github.com/Ramialison-Lab/StereoseqOrganoids/blob/main/STOMICs_FIG1.ipynb)
 
 The results were compared with different binning sizes.
 
--[binning_notebook1]
+- [binning_notebook1]
 
 This notebooks shows how to separata multiple organoids on the same slide.
 
@@ -40,8 +40,8 @@ This notebooks shows how to separata multiple organoids on the same slide.
   
 ### Regional analysis
 
--[border_core_analysis]
+- [border_core_analysis]
 
--[center_poles_analysis]
+- [center_poles_analysis]
 
--[GSEA]
+- [GSEA]
