@@ -2,6 +2,9 @@
 
 ## This repository contains the code for the manuscript: 'Application of spatial transcriptomics across organoids: a high-resolution spatial whole-transcriptome benchmarking dataset'.
 
+[Manuscript preprint](https://www.biorxiv.org/content/10.1101/2025.05.04.651803v1)
+
+
 ### Pre-processing: SAW pipeline/scripts
 
 Example of a job to send the SAW pipeline for a sample: 
