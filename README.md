@@ -38,7 +38,7 @@ The spatial data from different kind of organoids were compared in terms of numb
 
 The results were compared with different binning sizes.
 
-- [binning_notebook1]
+- [binning_notebook1](https://github.com/Ramialison-Lab/StereoseqOrganoids/blob/main/squarebinssizes.ipynb)
 
 This notebooks shows how to separata multiple organoids on the same slide.
 
